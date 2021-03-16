@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ### Github stats
 
 ![DateBro's github stats](https://github-readme-stats.vercel.app/api?username=DateBro&count_private=true&show_icons=true)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DateBro&hide=html&layout=compact)
