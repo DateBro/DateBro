@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 </a>
 
 
-I’m a first year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to **SDE/SWE Co-op position** starting from **May/Sept 2023**. I hope to be a **Full-stack Developer** in the future.
+I’m a first year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to **SDE/SWE Co-op position** starting from **Sept 2023**. I hope to be a **Full-stack Developer** in the future.
 
 - :telescope: I’m focus on **My university studies** & **Job Hunting**.
-- :seedling: I’m learning ![badge_node-js] & ![badge_next-js].
-- :books: I want to learn ![badge_kubernetes] later.
+- :seedling: I’m learning ![badge_go] & ![badge_kubernetes].
 - :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**.
 
 ### :microscope: Tech && Tools Preference
