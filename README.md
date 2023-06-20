@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 I’m a first year CS Master's student at **McMaster University**, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to **SDE/SWE Co-op position** starting from **Sept 2023**. I hope to be a **Full-stack Developer** in the future.
 
-- :telescope: I’m focus on **My university studies** & **Job Hunting**.
+- 🤔 I'm looking for 2024 New Grad / Junior Software Developer opportunities
 - :seedling: I’m learning ![badge_go] & ![badge_kubernetes].
-- :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**.
+- ☕ Coffee Chat: [https://www.buymeacoffee.com/zhiyongzhao](https://www.buymeacoffee.com/zhiyongzhao)
+- 📫 Feel free to reach me by: zhaoz233@mcmaster.ca
 
 ### :microscope: Tech && Tools Preference
 
